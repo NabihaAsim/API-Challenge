@@ -8,6 +8,7 @@ Weather observations
 
 1. Latitude doesn't have a strong correlation with wind speed, humidity and cloudiness. 
 2. The highest temperature is found at the equator and temperatures drop as the latitude increases or decreases.
-3. Latitude doesn't have a strong correlation with wind speed, humidity and cloudiness. 
+3. Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. 
+
 
 
